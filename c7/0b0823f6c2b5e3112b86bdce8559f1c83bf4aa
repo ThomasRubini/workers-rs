@@ -1,0 +1,19 @@
+examples/axum/Cargo.lock
+  s_26d9c48892cbb9::t_01faabbeee9228 202-207,351,353,355-356,577-597,697,699,710,712,720,722,730,732,743,745,752,754,765,767,775,777,794,807,809,814,823,825
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c70b0823f6c2b5e3112b86bdce8559f1c83bf4aa",
+  "prompts": {},
+  "sessions": {
+    "s_26d9c48892cbb9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fe8f7b3ccffe6O35LhDMzxrYZ5",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Thomas Rubini <trubini@cloudflare.com>"
+    }
+  }
+}
