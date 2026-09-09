@@ -1,0 +1,19 @@
+worker/tests/pass/connect-handler.rs
+  s_f3559dc59eaf1d::t_6cf943ca45b795 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9b1fbba437806087eae76763608c316a5133db36",
+  "prompts": {},
+  "sessions": {
+    "s_f3559dc59eaf1d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fe8e6bef9ffe3TBEKc9B2LgVuO",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Thomas Rubini <trubini@cloudflare.com>"
+    }
+  }
+}
