@@ -1,0 +1,21 @@
+package-lock.json
+  s_7ec832c848f732::t_d4e7537a1defda 18,305-389,2303-2305,2312,2872-2874,2885-2889
+package.json
+  s_7ec832c848f732::t_f3ec7066c74bc0 18,34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "60016f8a1a4066ea5ab0018398b7c3e2d58e68ba",
+  "prompts": {},
+  "sessions": {
+    "s_7ec832c848f732": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f30ebc883ffeazxKqeBPLJm5aT",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Thomas Rubini <trubini@cloudflare.com>"
+    }
+  }
+}
