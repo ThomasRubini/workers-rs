@@ -1,0 +1,21 @@
+test/tests/mf-socket.ts
+  s_20badf612191b5::t_706edb89629530 13-26,32,39-55
+test/tests/socket.spec.ts
+  s_20badf612191b5::t_ba3fa455d66ada 2,26-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "64f1369b1fda489ea084e1ad06722970e61ca13f",
+  "prompts": {},
+  "sessions": {
+    "s_20badf612191b5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f2a23d448ffeZIaC7l0D4jcHrB",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Thomas Rubini <trubini@cloudflare.com>"
+    }
+  }
+}
