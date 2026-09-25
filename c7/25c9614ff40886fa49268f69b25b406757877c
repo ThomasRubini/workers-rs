@@ -1,0 +1,27 @@
+worker-sys/Cargo.toml
+  s_16c72284884f3d::t_3aa852d8221482 5
+worker-macros/Cargo.toml
+  s_16c72284884f3d::t_4ccb399fe88cd2 7
+worker-build/Cargo.toml
+  s_16c72284884f3d::t_62376f6d8290a5 4
+worker-codegen/Cargo.toml
+  s_16c72284884f3d::t_7ab767a69ecdf3 7
+worker/Cargo.toml
+  s_16c72284884f3d::t_e694e2c4d47653 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c725c9614ff40886fa49268f69b25b406757877c",
+  "prompts": {},
+  "sessions": {
+    "s_16c72284884f3d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f29d7178bffeQith5uSeBflE3R",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Thomas Rubini <trubini@cloudflare.com>"
+    }
+  }
+}
