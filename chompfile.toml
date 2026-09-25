@@ -62,7 +62,7 @@ name = 'test:unit'
 serial = true
 deps = ['build', 'build:wasm-bindgen-test-runner']
 env.CARGO_TARGET_WASM32_UNKNOWN_UNKNOWN_RUNNER = 'wasm-bindgen/target/debug/wasm-bindgen-test-runner'
-run = 'cargo test -p worker --target wasm32-unknown-unknown'
+run = 'cargo test -p worker --target wasm32-unknown-unknown --lib --tests'
 
 [[task]]
 name = 'test'
