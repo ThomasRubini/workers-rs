@@ -1,0 +1,19 @@
+chompfile.toml
+  s_20badf612191b5::t_76811a52dbde0c 65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "484242fa7c2899b6126ea0e3730f83b5f74f26b4",
+  "prompts": {},
+  "sessions": {
+    "s_20badf612191b5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f2a23d448ffeZIaC7l0D4jcHrB",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Thomas Rubini <trubini@cloudflare.com>"
+    }
+  }
+}
